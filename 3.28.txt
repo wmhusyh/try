@@ -1,0 +1,41 @@
+pwd printf working place
+cd change directionary
+absolute pateh such as /d/dairy
+relative path such  as 
+cd . current directionary
+cd .. parent directionary
+cd - previous direcctiionary
+ls list directionary
+ls -a all directionary
+ls -l long message
+ls -la
+ls -R resort directionary
+ls -r reverse directionary
+ls -t resort by time
+touch <name> greate nem files
+file <name> give you a description of this file
+cat <name> read a file
+less a mode to read long text include 
+q quit 
+h help for less
+history  the command you have used
+clear clear you display
+copy copy and pasta some file to some other files
+* all charactor
+? one of the charactor
+cp *.jpg /home/pete/pictures
+cp -r copy files
+mv move or rename your file
+mv oldfiles newfiles
+mkdir make a directionary
+rm remove file
+rmdir remove directionary
+-f or force option tells rm to remove all files
+Adding the -i flag like many of the other commands, will give you a prompt on whether you want to actually remove the files or directories.
+help eco help
+whatis help for command
+alias foobar='ls -la' a abbreniation for comamnd line
+find /home -name puppies.jpg
+find directionary -name <name>
+find directionary -type <filetype> 
+
